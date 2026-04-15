@@ -34,6 +34,8 @@ public class MyMath extends MyMulti{
 		System.out.println(mm.sub(5, 2));
 		System.out.println(mm.divide(10, 5));
 		System.out.println(mm.multi(2, 3));
+				System.out.println(mm.multi(2, 5));
+		
 
 	}
 
