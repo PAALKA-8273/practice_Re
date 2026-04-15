@@ -11,6 +11,7 @@ public class AnimalOverride extends Cow {
 	
 	void colour() {
 		System.out.println("Brown");
+				System.out.println("Black");
 	}
 	public static void main(String[] args) {
     
