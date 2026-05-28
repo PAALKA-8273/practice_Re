@@ -4,10 +4,12 @@ public class ExampleConsOverloading {
 
 	String name; // declare
 	int age;
+int test;
 
 	// Constructor 1 (no parameter)
 	ExampleConsOverloading() {
 		name = "Unknown";
+
 		age = 0;
 	}
 
